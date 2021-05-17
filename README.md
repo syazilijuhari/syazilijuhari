@@ -2,7 +2,8 @@
 
 <!--**syazilijuhari/syazilijuhari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-<!--https://github-readme-stats.vercel.app/api?username=syazilijuhari&show_icons=true&theme=onedark&hide_border=false -->
+[![Syazili's GitHub stats](https://github-readme-stats.vercel.app/api?username=syazilijuhari&show_icons=true&theme=tokyonight)](https://github.com/syazilijuhari/github-readme-stats)
+
 
 
 <!--Here are some ideas to get you started:
