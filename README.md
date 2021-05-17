@@ -11,6 +11,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=syazilijuhari&theme=midnight-purple&repo=syazilijuhari.github.io)](https://github.com/syazilijuhari/syazilijuhari.github.io)
 
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=syazilijuhari&theme=midnight-purple&repo=Portfolio)](https://github.com/syazilijuhari/Portfolio)
 
 <!--Here are some ideas to get you started:
 
